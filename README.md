@@ -24,10 +24,11 @@ The @keyframes rule animates the rotation of the box around both the X and Y axe
 
 1. Clone or download this repository.
 ```
-
+git clone https://github.com/William2716057/rotatingBox.git
 ```
-Open the index.html file in any modern web browser.
-Customization
-You can adjust the size of the box by changing the width and height of the .wrapper in the CSS.
-The speed of the rotation can be modified by changing the duration of the animation property in .wrapper.
-To change the color of the faces, modify the background-color property for each .face in style.css.
+2. Open the index.html file in any modern web browser.
+
+### Customization
+- You can adjust the size of the box by changing the width and height of the .wrapper in the CSS.
+- The speed of the rotation can be modified by changing the duration of the animation property in .wrapper.
+- To change the color of the faces, modify the background-color property for each .face in style.css.
