@@ -22,7 +22,10 @@ The @keyframes rule animates the rotation of the box around both the X and Y axe
 
 ## Setup
 
-Clone or download this repository.
+1. Clone or download this repository.
+```
+
+```
 Open the index.html file in any modern web browser.
 Customization
 You can adjust the size of the box by changing the width and height of the .wrapper in the CSS.
