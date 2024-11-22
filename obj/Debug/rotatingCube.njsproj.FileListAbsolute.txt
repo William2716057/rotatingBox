@@ -1,0 +1,3 @@
+C:\Users\wills\Desktop\Shortcuts\Files\Github\rotatingCube\rotatingCube\obj\Debug\rotatingCube.njsproj.AssemblyReference.cache
+C:\Users\wills\Desktop\Shortcuts\Files\Github\rotatingCube\rotatingCube\obj\Debug\rotatingCube.njsproj.CoreCompileInputs.cache
+C:\Users\wills\Desktop\Shortcuts\Files\Github\rotatingCube\rotatingCube\bin\Microsoft.NodejsTools.WebRole.dll
