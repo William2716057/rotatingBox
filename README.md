@@ -14,7 +14,7 @@ This repository contains the following files:
 HTML (index.html)
 The HTML defines a container div with a wrapper div inside it. The wrapper contains six div elements representing the faces of the box (front, back, left, right, top, bottom). Each of these faces is styled and positioned to create the 3D effect.
 
-CSS (style.css)
+
 1. The .container class sets a perspective of 800px, which is essential for the 3D effect.
 2. The .wrapper class applies transform-style: preserve-3d to enable 3D transformations and infinite rotation to display spinning effect.
 Each .face is a 2D square, but with different 3D transformations applied (using rotateX and rotateY), they are positioned to form a cube.
